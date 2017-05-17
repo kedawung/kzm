@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/kosim21/kzm/server"
+	"github.com/kedawung/kzm/server"
 	"github.com/jpillora/opts"
 )
 
