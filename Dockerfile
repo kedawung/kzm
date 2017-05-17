@@ -6,7 +6,7 @@ ENV GOPATH /root/go
 ENV PATH $PATH:/usr/local/go/bin:$GOPATH/bin
 
 #package
-ENV PACKAGE github.com/kosim21/kzm
+ENV PACKAGE github.com/kedawung/kzm
 ENV PACKAGE_DIR $GOPATH/src/$PACKAGE
 
 #install go and godep, then compile node server.js using godep, then wipe build tools
