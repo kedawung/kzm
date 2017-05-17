@@ -1,7 +1,7 @@
 {
 	"name": "Cloud Torrent",
 	"website": "http://www.savetodrive.net",
-	"repository": "https://github.com/kosim21/kzm",
+	"repository": "https://github.com/kedawung/kzm",
 	"env": {
 		"TITLE": {
 			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
