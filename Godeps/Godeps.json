@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/kosim21/kzm",
+	"ImportPath": "github.com/kedawung/kzm",
 	"GoVersion": "go1.5.3",
 	"Deps": [
 		{
